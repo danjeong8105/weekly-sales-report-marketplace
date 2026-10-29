@@ -1,0 +1,11 @@
+{
+  "name": "weekly-sales-report-marketplace",
+  "owner": { "name": "danjeong8105" },
+  "plugins": [
+    {
+      "name": "weekly-sales-report",
+      "source": "./plugins/weekly-sales-report",
+      "description": "구글 시트 판매내역으로 지난주 매출 리포트를 만들어 슬랙에 보내는 스킬"
+    }
+  ]
+}

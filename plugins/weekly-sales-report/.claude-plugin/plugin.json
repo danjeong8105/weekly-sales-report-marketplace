@@ -1,0 +1,5 @@
+{
+  "name": "weekly-sales-report",
+  "description": "구글 시트 '판매관리' 판매내역으로 지난주(월~일) 주간 매출 리포트를 만들어 슬랙 채널에 보낸다.",
+  "version": "1.0.0"
+}
